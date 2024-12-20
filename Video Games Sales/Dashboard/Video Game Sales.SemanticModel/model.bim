@@ -1,0 +1,278 @@
+{
+  "compatibilityLevel": 1550,
+  "model": {
+    "annotations": [
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "0"
+      },
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.138.1452.0 (24.11)"
+      },
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"vgSales\"]"
+      },
+      {
+        "name": "PBI_ProTooling",
+        "value": "[\"DevMode\"]"
+      }
+    ],
+    "culture": "pt-BR",
+    "cultures": [
+      {
+        "name": "pt-BR",
+        "linguisticMetadata": {
+          "content": {
+            "Language": "en-US",
+            "Version": "1.0.0"
+          },
+          "contentType": "json"
+        }
+      }
+    ],
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "sourceQueryCulture": "pt-BR",
+    "tables": [
+      {
+        "name": "vgSales",
+        "annotations": [
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navegação"
+          },
+          {
+            "name": "PBI_ResultType",
+            "value": "Table"
+          }
+        ],
+        "columns": [
+          {
+            "name": "Rank",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "e5b7fd39-ceff-4c26-a83a-941da10c0897",
+            "sourceColumn": "Rank",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Name",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "a2a29ab4-0270-4cb6-a5ec-4fbb98dbeb08",
+            "sourceColumn": "Name",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Platform",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "769dfd6e-299f-421f-9365-52fef774b24c",
+            "sourceColumn": "Platform",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Year",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "2f185470-576b-432b-88a4-9cb8193ae68f",
+            "sourceColumn": "Year",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Genre",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "2cae1d04-34ce-48e0-8871-49348204e719",
+            "sourceColumn": "Genre",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Publisher",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "09ea6adf-48c5-4adf-8b1c-efd3ddd72b43",
+            "sourceColumn": "Publisher",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "NA_Sales",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "17e0d715-832c-4409-a2c3-69213b2dc269",
+            "sourceColumn": "NA_Sales",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "EU_Sales",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "d20cb987-4622-4cc6-88fc-6823b9075110",
+            "sourceColumn": "EU_Sales",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "JP_Sales",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "d825aa78-8cc2-4c0c-b4ee-0e5a8e1dc87b",
+            "sourceColumn": "JP_Sales",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Other_Sales",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "4acc4060-e2a7-488f-a2d6-de48e8cd3b1e",
+            "sourceColumn": "Other_Sales",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Global_Sales",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "f82f8372-9faa-4ce8-a179-ca473d0ee522",
+            "sourceColumn": "Global_Sales",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "63308e15-d576-4e48-8b07-fccf4807ec0a",
+        "partitions": [
+          {
+            "name": "vgSales",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Fonte = Csv.Document(File.Contents(\"C:\\Users\\andre\\Desktop\\Power BI\\Portfolio\\Video Games Sales\\vgsales.csv\"),[Delimiter=\",\", Columns=11, Encoding=65001, QuoteStyle=QuoteStyle.None]),",
+                "    #\"Cabeçalhos Promovidos\" = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),",
+                "    #\"Tipo Alterado\" = Table.TransformColumnTypes(#\"Cabeçalhos Promovidos\",{{\"Rank\", Int64.Type}, {\"Name\", type text}, {\"Platform\", type text}, {\"Year\", type text}, {\"Genre\", type text}, {\"Publisher\", type text}, {\"NA_Sales\", Int64.Type}, {\"EU_Sales\", Int64.Type}, {\"JP_Sales\", Int64.Type}, {\"Other_Sales\", Int64.Type}, {\"Global_Sales\", Int64.Type}})",
+                "in",
+                "    #\"Tipo Alterado\""
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "# Measures",
+        "annotations": [
+          {
+            "name": "PBI_Id",
+            "value": "8891caa6f8a74672a93da5bd61f3bbd3"
+          },
+          {
+            "name": "436ba87b-9c83-4389-a31b-ebd06a36be98",
+            "value": "{\"Expression\":\"\"}"
+          }
+        ],
+        "columns": [
+          {
+            "name": "Column",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "isDataTypeInferred": true,
+            "isHidden": true,
+            "isNameInferred": true,
+            "lineageTag": "c8e60953-9843-4adf-936f-3b258c86f867",
+            "sourceColumn": "[Column]",
+            "summarizeBy": "sum",
+            "type": "calculatedTableColumn"
+          }
+        ],
+        "lineageTag": "830c3388-b31d-4ce1-96ef-da1e4c48c7a1",
+        "measures": [
+          {
+            "name": "Total Sales",
+            "expression": "SUM(vgSales[Global_Sales]) * 1000000",
+            "formatString": "#,0",
+            "lineageTag": "844cf2aa-1f24-421b-aaaf-c06b8c3ff2d6"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "# Measures",
+            "mode": "import",
+            "source": {
+              "expression": "Row(\"Column\", BLANK())",
+              "type": "calculated"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
