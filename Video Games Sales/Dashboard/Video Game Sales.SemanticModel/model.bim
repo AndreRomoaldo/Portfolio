@@ -25,8 +25,2045 @@
         "name": "pt-BR",
         "linguisticMetadata": {
           "content": {
+            "Entities": {
+              "measure": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "# Measures"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "# measure": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "no measure": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  },
+                  {
+                    "num measure": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  },
+                  {
+                    "number measure": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  },
+                  {
+                    "# degree": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  },
+                  {
+                    "# quantity": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  },
+                  {
+                    "# quota": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  },
+                  {
+                    "# extent": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  },
+                  {
+                    "# amount": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "# portion": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "# ration": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  }
+                ]
+              },
+              "measure.EU_sales": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "# Measures",
+                    "ConceptualProperty": "EU Sales"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "EU sales": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "sales": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  }
+                ]
+              },
+              "measure.JP_sales": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "# Measures",
+                    "ConceptualProperty": "JP Sales"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "JP sales": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "sales": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  }
+                ]
+              },
+              "measure.NA_sales": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "# Measures",
+                    "ConceptualProperty": "NA Sales"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "NA sales": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "sales": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  }
+                ]
+              },
+              "measure.column": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "# Measures",
+                    "ConceptualProperty": "Column"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "column": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "pilaster": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "pier": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "pillar": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "post": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "support": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "stake": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "pole": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "buttress": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "underpinning": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "contribution": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  }
+                ],
+                "Visibility": {
+                  "Value": "Hidden"
+                }
+              },
+              "measure.total_sales": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "# Measures",
+                    "ConceptualProperty": "Total Sales"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "total sales": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "sales": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "total sale": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "aggregate sale": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  },
+                  {
+                    "overall sale": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  }
+                ]
+              },
+              "vg_sale": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "vg sale": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "vgSales": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "sale": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "vg auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "vg transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.475
+                    }
+                  },
+                  {
+                    "transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "vg deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "vg trade": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "vg vending": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "vg retailing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "vg selling": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "vg_sale.EU_sale": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales",
+                    "ConceptualProperty": "EU_Sales"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "EU sale": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "EU_Sales": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "sale": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "eu auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "eu transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.475
+                    }
+                  },
+                  {
+                    "transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "eu deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "eu trade": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "eu vending": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "eu retailing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "eu selling": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "vg_sale.JP_sale": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales",
+                    "ConceptualProperty": "JP_Sales"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "JP sale": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "JP_Sales": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "sale": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "jp auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "jp transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.475
+                    }
+                  },
+                  {
+                    "transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "jp deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "jp trade": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "jp vending": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "jp retailing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "jp selling": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "vg_sale.NA_sale": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales",
+                    "ConceptualProperty": "NA_Sales"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "NA sale": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "NA_Sales": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "sale": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "na auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "na transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.475
+                    }
+                  },
+                  {
+                    "transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "na deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "na trade": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "na vending": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "na retailing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "na selling": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "vg_sale.genre": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales",
+                    "ConceptualProperty": "Genre"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "genre": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "category": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "variety": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "genus": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "type": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "kind": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "field": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  }
+                ]
+              },
+              "vg_sale.global_sale": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales",
+                    "ConceptualProperty": "Global_Sales"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "global sale": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "Global_Sales": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "sale": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "global auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "global transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.475
+                    }
+                  },
+                  {
+                    "transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "global deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "global trade": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "global vending": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "global retailing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "global selling": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "vg_sale.name": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales",
+                    "ConceptualProperty": "Name"
+                  }
+                },
+                "NameType": "Name",
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "name": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "title": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  },
+                  {
+                    "label": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  },
+                  {
+                    "tag": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  },
+                  {
+                    "Game": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "vg_sale.other_sale": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales",
+                    "ConceptualProperty": "Other_Sales"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "other sale": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "Other_Sales": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "sale": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "other auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "auction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "other transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.475
+                    }
+                  },
+                  {
+                    "transaction": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "other deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "other trade": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "other vending": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "other retailing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "other selling": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.461
+                    }
+                  },
+                  {
+                    "deal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "vg_sale.platform": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales",
+                    "ConceptualProperty": "Platform"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "platform": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "podium": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "dais": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "stage": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "stand": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "policy": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "proposal": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "manifesto": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  },
+                  {
+                    "program": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "vg_sale.publisher": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales",
+                    "ConceptualProperty": "Publisher"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "publisher": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "producer": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "originator": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "commissioner": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "editor": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "issuer": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  }
+                ]
+              },
+              "vg_sale.rank": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales",
+                    "ConceptualProperty": "Rank"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "rank": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "flourishing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "sheer": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  },
+                  {
+                    "absolute": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "vg_sale.year": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "vgSales",
+                    "ConceptualProperty": "Year"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "year": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "yr": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  }
+                ]
+              }
+            },
             "Language": "en-US",
-            "Version": "1.0.0"
+            "Relationships": {
+              "vg_sale_has_EU_sale": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale.EU_sale"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_EU_sales",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  },
+                  "vg_sale.EU_sale": {
+                    "Target": {
+                      "Entity": "vg_sale.EU_sale"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_JP_sale": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale.JP_sale"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_JP_sales",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  },
+                  "vg_sale.JP_sale": {
+                    "Target": {
+                      "Entity": "vg_sale.JP_sale"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_NA_sale": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale.NA_sale"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_NA_sales",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  },
+                  "vg_sale.NA_sale": {
+                    "Target": {
+                      "Entity": "vg_sale.NA_sale"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_genre": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale.genre"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_genres",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  },
+                  "vg_sale.genre": {
+                    "Target": {
+                      "Entity": "vg_sale.genre"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_global_sale": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale.global_sale"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_global_sales",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  },
+                  "vg_sale.global_sale": {
+                    "Target": {
+                      "Entity": "vg_sale.global_sale"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_measure_EU_sales": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "measure.EU_sales"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_EU_sales1",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "measure.EU_sales": {
+                    "Target": {
+                      "Entity": "measure.EU_sales"
+                    }
+                  },
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_measure_JP_sales": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "measure.JP_sales"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_JP_sales1",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "measure.JP_sales": {
+                    "Target": {
+                      "Entity": "measure.JP_sales"
+                    }
+                  },
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_measure_NA_sales": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "measure.NA_sales"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_NA_sales1",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "measure.NA_sales": {
+                    "Target": {
+                      "Entity": "measure.NA_sales"
+                    }
+                  },
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_measure_total_sales": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "measure.total_sales"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_total_sales",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "measure.total_sales": {
+                    "Target": {
+                      "Entity": "measure.total_sales"
+                    }
+                  },
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_other_sale": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale.other_sale"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_other_sales",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  },
+                  "vg_sale.other_sale": {
+                    "Target": {
+                      "Entity": "vg_sale.other_sale"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_platform": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale.platform"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_platforms",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  },
+                  "vg_sale.platform": {
+                    "Target": {
+                      "Entity": "vg_sale.platform"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_rank": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale.rank"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_ranks",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  },
+                  "vg_sale.rank": {
+                    "Target": {
+                      "Entity": "vg_sale.rank"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_has_year": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale.year"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_years",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  },
+                  "vg_sale.year": {
+                    "Target": {
+                      "Entity": "vg_sale.year"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_is_named_name": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "ID": "names_are_names_IDs_of_vg_sales",
+                    "Name": {
+                      "Name": {
+                        "Role": "vg_sale.name"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale.name"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_names",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  },
+                  "vg_sale.name": {
+                    "Target": {
+                      "Entity": "vg_sale.name"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "vg_sale_publisher_publish_vg_sale": {
+                "Binding": {
+                  "ConceptualEntity": "vgSales"
+                },
+                "Phrasings": [
+                  {
+                    "ID": "publishers_publish_vg_sales",
+                    "State": "Generated",
+                    "Verb": {
+                      "Object": {
+                        "Role": "vg_sale"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale.publisher"
+                      },
+                      "Verbs": [
+                        {
+                          "publish": {
+                            "State": "Generated"
+                          }
+                        }
+                      ]
+                    },
+                    "Weight": 0.75
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale.publisher"
+                      }
+                    },
+                    "ID": "publishers_have_vg_sales",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "vg_sale.publisher"
+                      },
+                      "Subject": {
+                        "Role": "vg_sale"
+                      }
+                    },
+                    "ID": "vg_sales_have_publishers",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "vg_sale": {
+                    "Target": {
+                      "Entity": "vg_sale"
+                    }
+                  },
+                  "vg_sale.publisher": {
+                    "Target": {
+                      "Entity": "vg_sale.publisher"
+                    }
+                  }
+                },
+                "State": "Generated"
+              }
+            },
+            "Version": "3.5.0"
           },
           "contentType": "json"
         }
@@ -57,11 +2094,10 @@
             "annotations": [
               {
                 "name": "SummarizationSetBy",
-                "value": "User"
+                "value": "Automatic"
               }
             ],
-            "dataType": "int64",
-            "formatString": "0",
+            "dataType": "string",
             "lineageTag": "e5b7fd39-ceff-4c26-a83a-941da10c0897",
             "sourceColumn": "Rank",
             "summarizeBy": "none"
@@ -211,10 +2247,12 @@
               "expression": [
                 "let",
                 "    Fonte = Csv.Document(File.Contents(\"C:\\Users\\andre\\Desktop\\Power BI\\Portfolio\\Video Games Sales\\vgsales.csv\"),[Delimiter=\",\", Columns=11, Encoding=65001, QuoteStyle=QuoteStyle.None]),",
-                "    #\"Cabeçalhos Promovidos\" = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),",
-                "    #\"Tipo Alterado\" = Table.TransformColumnTypes(#\"Cabeçalhos Promovidos\",{{\"Rank\", Int64.Type}, {\"Name\", type text}, {\"Platform\", type text}, {\"Year\", type text}, {\"Genre\", type text}, {\"Publisher\", type text}, {\"NA_Sales\", Int64.Type}, {\"EU_Sales\", Int64.Type}, {\"JP_Sales\", Int64.Type}, {\"Other_Sales\", Int64.Type}, {\"Global_Sales\", Int64.Type}})",
+                "    #\"Promoted Headers\" = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),",
+                "    #\"N/A Year Rows Removed\" = Table.SelectRows(#\"Promoted Headers\", each ([Year] <> \"N/A\")),",
+                "    #\"Changed Type\" = Table.TransformColumnTypes(#\"N/A Year Rows Removed\",{{\"NA_Sales\", Int64.Type}, {\"EU_Sales\", Int64.Type}, {\"JP_Sales\", Int64.Type}, {\"Other_Sales\", Int64.Type}, {\"Global_Sales\", Int64.Type}}),",
+                "    #\"Years Filtered - 2000 to 2015\" = Table.SelectRows(#\"Changed Type\", each [Year] = \"2000\" or [Year] = \"2001\" or [Year] = \"2002\" or [Year] = \"2003\" or [Year] = \"2004\" or [Year] = \"2005\" or [Year] = \"2006\" or [Year] = \"2007\" or [Year] = \"2008\" or [Year] = \"2009\" or [Year] = \"2010\" or [Year] = \"2011\" or [Year] = \"2012\" or [Year] = \"2013\" or [Year] = \"2014\" or [Year] = \"2015\")",
                 "in",
-                "    #\"Tipo Alterado\""
+                "    #\"Years Filtered - 2000 to 2015\""
               ],
               "type": "m"
             }
@@ -260,6 +2298,24 @@
             "expression": "SUM(vgSales[Global_Sales]) * 1000000",
             "formatString": "#,0",
             "lineageTag": "844cf2aa-1f24-421b-aaaf-c06b8c3ff2d6"
+          },
+          {
+            "name": "EU Sales",
+            "expression": "SUM(vgSales[EU_Sales]) * 1000000",
+            "formatString": "#,0",
+            "lineageTag": "d2c242ce-04c4-4a2e-9d59-0d97912c64ee"
+          },
+          {
+            "name": "JP Sales",
+            "expression": "SUM(vgSales[JP_Sales]) * 1000000",
+            "formatString": "#,0",
+            "lineageTag": "259341f7-fc0a-4273-936d-a43c27466b8d"
+          },
+          {
+            "name": "NA Sales",
+            "expression": "SUM(vgSales[NA_Sales]) * 1000000",
+            "formatString": "#,0",
+            "lineageTag": "c8f75ecf-56ad-4b99-bb8e-2a7250cf7a54"
           }
         ],
         "partitions": [
