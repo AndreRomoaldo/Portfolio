@@ -2316,6 +2316,18 @@
             "expression": "SUM(vgSales[NA_Sales]) * 1000000",
             "formatString": "#,0",
             "lineageTag": "c8f75ecf-56ad-4b99-bb8e-2a7250cf7a54"
+          },
+          {
+            "name": "Correct Amount Test",
+            "expression": "[EU Sales] + [JP Sales] + [NA Sales] + [Other Sales]",
+            "formatString": "#,0",
+            "lineageTag": "4a45bab8-6e81-4c75-b54b-b323e12b710d"
+          },
+          {
+            "name": "Other Sales",
+            "expression": "SUM(vgSales[Other_Sales]) * 1000000",
+            "formatString": "0",
+            "lineageTag": "2792840d-6d60-455d-9e92-d353fab64c94"
           }
         ],
         "partitions": [
